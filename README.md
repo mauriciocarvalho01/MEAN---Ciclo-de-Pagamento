@@ -1,10 +1,9 @@
-# Mongo, Express, Angular e Node - Primeira Aplicação do ZERO!
+# Aplicação Mongo, Express, Angular e Node
 
 ## Sobre o Curso
 O curso relacionado ao material disponibilizado neste repositório está disponibilizado no portal [Cod3r](http://www.cod3r.co/portal/courses) e na [Udemy](https://www.udemy.com/mean-primeira-aplicacao-do-zero).
 
-## Aulas Grátis
-**Quer conhecer mais sobre o curso?** Acesse algumas aulas grátis que foram disponibilizadas no nosso [Canal do Youtube](https://youtube.com/aulasdeprogramacao).
+
 
 - [Playlist do Curso](https://www.youtube.com/watch?v=5sMBYBRwJ5Q&list=PLDm7BSK-M5YleJFYqnxvs7DZruSPmCgya)
 
